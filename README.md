@@ -1,4 +1,13 @@
 # Getting Started with Create React App
+![image](https://github.com/herdiyana256/to-do-list-reactJS/assets/82978131/bdd43e5c-0b5d-4dc3-90d1-bb87da6cb029)
+
+
+Uploading 2024-05-30 17-50-30-15.mp4…
+
+
+
+https://github.com/herdiyana256/to-do-list-reactJS/assets/82978131/8edd28e6-2339-4164-83b8-708a2e6eb50d
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
